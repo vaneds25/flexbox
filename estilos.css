@@ -50,8 +50,3 @@ body{
 .main-image h1 .strike{
     text-decoration: line-through;
 }
-
-.btn a {
-    text-decoration: none;
-    color: white;
-}
